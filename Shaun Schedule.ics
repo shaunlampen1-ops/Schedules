@@ -23,135 +23,80 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:08048eda-2129-5632-9c33-2f83826a85f7@muse
-DTSTAMP:20261016T135042Z
-DTSTART;TZID=America/Toronto:20261012T080000
-DTEND;TZID=America/Toronto:20261012T090000
-SUMMARY:Shaun – Team C Resident Vacation
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 12-16\nTeam/doctor: Team C Residen
- t Vacation\nRole: Clinic/OR\nAM/PM: n/a\nAssignment: n/a\nCell value: 'Sha
- un'
-END:VEVENT
-BEGIN:VEVENT
-UID:819d8a9a-6ee2-5093-8af9-ebca846102cd@muse
-DTSTAMP:20261016T135042Z
-DTSTART;TZID=America/Toronto:20261013T080000
-DTEND;TZID=America/Toronto:20261013T090000
-SUMMARY:Shaun – Team C Resident Vacation
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 12-16\nTeam/doctor: Team C Residen
- t Vacation\nRole: Clinic/OR\nAM/PM: n/a\nAssignment: n/a\nCell value: 'Sha
- un'
-END:VEVENT
-BEGIN:VEVENT
-UID:b0d9543b-6e19-50a4-9e71-600769a44b06@muse
-DTSTAMP:20261016T135042Z
-DTSTART;TZID=America/Toronto:20261014T080000
-DTEND;TZID=America/Toronto:20261014T090000
-SUMMARY:Shaun – Team C Resident Vacation
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 12-16\nTeam/doctor: Team C Residen
- t Vacation\nRole: Clinic/OR\nAM/PM: n/a\nAssignment: n/a\nCell value: 'Sha
- un'
-END:VEVENT
-BEGIN:VEVENT
-UID:ebf4324e-7a97-537e-8a5f-89b84e147115@muse
-DTSTAMP:20261016T135042Z
-DTSTART;TZID=America/Toronto:20261015T080000
-DTEND;TZID=America/Toronto:20261015T090000
-SUMMARY:Shaun – Team C Resident Vacation
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 12-16\nTeam/doctor: Team C Residen
- t Vacation\nRole: Clinic/OR\nAM/PM: n/a\nAssignment: n/a\nCell value: 'Tra
- uma Full Day/ Shaun'
-END:VEVENT
-BEGIN:VEVENT
-UID:4c5e6173-7287-5ba7-acb1-e2db5687f08a@muse
-DTSTAMP:20261016T135042Z
-DTSTART;TZID=America/Toronto:20261016T080000
-DTEND;TZID=America/Toronto:20261016T090000
-SUMMARY:Shaun – Team C Resident Vacation
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 12-16\nTeam/doctor: Team C Residen
- t Vacation\nRole: Clinic/OR\nAM/PM: n/a\nAssignment: n/a\nCell value: 'Jen
- ny personal day/Shaun'
-END:VEVENT
-BEGIN:VEVENT
 UID:9f64528e-b081-5bc8-b760-e48a6c9e7bcd@muse
-DTSTAMP:20261016T135042Z
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261019T080000
 DTEND;TZID=America/Toronto:20261019T090000
 SUMMARY:Shaun – Dr. Yach – KGH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Yach\nRole
- : Resident/Clerk\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun'\
- nCell value: 'Shaun'
+ : resident\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun'\nCell 
+ value: 'Shaun'
 END:VEVENT
 BEGIN:VEVENT
 UID:aa1b5549-c4f8-5367-a277-b546a8e8c99a@muse
-DTSTAMP:20261016T135042Z
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261020T080000
 DTEND;TZID=America/Toronto:20261020T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Campbell\n
- Role: Resident/Clerk\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Sha
- un/Joseph/JasonF '\nCell value: 'Shaun/Joseph/JasonF '
+ Role: resident\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Shaun/Jos
+ eph/JasonF'\nCell value: 'Shaun/Joseph/JasonF'
 END:VEVENT
 BEGIN:VEVENT
-UID:c3b33737-ef04-58dc-a86d-46400d826e1e@muse
-DTSTAMP:20261016T135042Z
+UID:4f2471c8-3ce4-5488-afd6-4678042e176c@muse
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261021T080000
 DTEND;TZID=America/Toronto:20261021T090000
-SUMMARY:Shaun – Dr. Campbell – KGH OR - RM D
+SUMMARY:Shaun – Dr. Campbell – KGH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Campbell\n
- Role: Resident/Clerk\nAM/PM: AM + PM\nAssignment: KGH OR - RM D (AM) / KGH
-  OR (PM)\nCell value: 'Shaun/Nicole'\nCell value: 'Shaun/Nicole'
+ Role: resident\nAM/PM: AM + PM\nAssignment: KGH OR - RM D (AM) / KGH OR (P
+ M)\nCell value: 'Shaun/Nicole'\nCell value: 'Shaun/Nicole'
 END:VEVENT
 BEGIN:VEVENT
-UID:f770475b-1737-573a-ad86-1f29c128079b@muse
-DTSTAMP:20261016T135042Z
+UID:cd122eca-d30b-5121-a055-19ee31e98567@muse
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261023T080000
 DTEND;TZID=America/Toronto:20261023T090000
-SUMMARY:Shaun – Dr. Pichora – PROCEDURE CLINIC
+SUMMARY:Shaun – Dr. Pichora – Procedure Clinic
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Pichora\nR
- ole: Resident/Clerk\nAM/PM: AM\nAssignment: PROCEDURE CLINIC\nCell value: 
- '?Shaun'
+ ole: resident\nAM/PM: AM\nAssignment: Procedure Clinic\nCell value: 'Shaun
+ '
 END:VEVENT
 BEGIN:VEVENT
 UID:01fad253-58a9-56ee-b87f-ae73bc8fad53@muse
-DTSTAMP:20261016T135042Z
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261026T080000
 DTEND;TZID=America/Toronto:20261026T090000
 SUMMARY:Shaun – Dr. Bedoya – KGH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Bedoya\nRo
- le: Resident/Clerk\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun
- '\nCell value: 'Shaun'
+ le: resident\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun'\nCel
+ l value: 'Shaun'
 END:VEVENT
 BEGIN:VEVENT
 UID:06ba1e4e-0407-52d0-9b5f-f448e862f89c@muse
-DTSTAMP:20261016T135042Z
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261027T080000
 DTEND;TZID=America/Toronto:20261027T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Campbell\n
- Role: Resident/Clerk\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Sha
- un/JasonF '\nCell value: 'Shaun/JasonF '
+ Role: resident\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Shaun/Jas
+ onF'\nCell value: 'Shaun/JasonF'
 END:VEVENT
 BEGIN:VEVENT
 UID:cec8cec0-a3bc-5be1-bc50-e5fe79e826bf@muse
-DTSTAMP:20261016T135042Z
+DTSTAMP:20261017T134831Z
 DTSTART;TZID=America/Toronto:20261029T080000
 DTEND;TZID=America/Toronto:20261029T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
 DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
  0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Campbell\n
- Role: Resident/Clerk\nAM/PM: AM\nAssignment: HDH OR\nCell value: 'Shaun/Am
- elia/JasonF'
+ Role: resident\nAM/PM: AM\nAssignment: HDH OR\nCell value: 'Shaun/Amelia/J
+ asonF'
 END:VEVENT
 END:VCALENDAR
