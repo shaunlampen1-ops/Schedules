@@ -23,80 +23,73 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9f64528e-b081-5bc8-b760-e48a6c9e7bcd@muse
-DTSTAMP:20261018T135019Z
+UID:c48b6670-ce31-5b46-b075-1a2daf82ff27@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261019T080000
 DTEND;TZID=America/Toronto:20261019T090000
-SUMMARY:Shaun – Dr. Yach – KGH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Yach\nRole
- : resident\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun'\nCell 
- value: 'Shaun'
+SUMMARY:Shaun - Dr. Yach - KGH OR
+DESCRIPTION:Assignment: Shaun\nRole: AM/PM\nTeam: Dr. Yach\nLocation: KGH O
+ R\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: Oct 19-23\nSource 
+ rows: 36\, 37
 END:VEVENT
 BEGIN:VEVENT
-UID:aa1b5549-c4f8-5367-a277-b546a8e8c99a@muse
-DTSTAMP:20261018T135019Z
+UID:7fc883be-563f-57ac-9830-9afceac25786@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261020T080000
 DTEND;TZID=America/Toronto:20261020T090000
-SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Campbell\n
- Role: resident\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Shaun/Jos
- eph/JasonF'\nCell value: 'Shaun/Joseph/JasonF'
+SUMMARY:Shaun - Dr. Campbell - HDH OR
+DESCRIPTION:Assignment: Shaun/Joseph/JasonF\nRole: AM/PM\nTeam: Dr. Campbel
+ l\nLocation: HDH OR\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: 
+ Oct 19-23\nSource rows: 23\, 24
 END:VEVENT
 BEGIN:VEVENT
-UID:4f2471c8-3ce4-5488-afd6-4678042e176c@muse
-DTSTAMP:20261018T135019Z
+UID:dfd8dd7d-549c-5109-9134-49d55842a136@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261021T080000
 DTEND;TZID=America/Toronto:20261021T090000
-SUMMARY:Shaun – Dr. Campbell – KGH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Campbell\n
- Role: resident\nAM/PM: AM + PM\nAssignment: KGH OR - RM D (AM) / KGH OR (P
- M)\nCell value: 'Shaun/Nicole'\nCell value: 'Shaun/Nicole'
+SUMMARY:Shaun - Dr. Campbell - KGH OR / KGH OR - RM D
+DESCRIPTION:Assignment: Shaun/Nicole\nRole: AM/PM\nTeam: Dr. Campbell\nLoca
+ tion: KGH OR / KGH OR - RM D\nSheet: 2026_2027_Orthopedic Clinical Schedul
+ e\, tab: Oct 19-23\nSource rows: 23\, 24
 END:VEVENT
 BEGIN:VEVENT
-UID:cd122eca-d30b-5121-a055-19ee31e98567@muse
-DTSTAMP:20261018T135019Z
+UID:6c6f4b5f-3472-5eae-b178-f04189ab2df3@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261023T080000
 DTEND;TZID=America/Toronto:20261023T090000
-SUMMARY:Shaun – Dr. Pichora – Procedure Clinic
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 19-23\nTeam/doctor: Dr. Pichora\nR
- ole: resident\nAM/PM: AM\nAssignment: Procedure Clinic\nCell value: 'Shaun
- '
+SUMMARY:Shaun - Dr. Pichora - PROCEDURE CLINIC
+DESCRIPTION:Assignment: Shaun\nRole: AM\nTeam: Dr. Pichora\nLocation: PROCE
+ DURE CLINIC\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: Oct 19-2
+ 3\nSource rows: 18
 END:VEVENT
 BEGIN:VEVENT
-UID:01fad253-58a9-56ee-b87f-ae73bc8fad53@muse
-DTSTAMP:20261018T135019Z
+UID:ea310f0b-fc41-58f7-a87a-55379248bd91@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261026T080000
 DTEND;TZID=America/Toronto:20261026T090000
-SUMMARY:Shaun – Dr. Bedoya – KGH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Bedoya\nRo
- le: resident\nAM/PM: AM + PM\nAssignment: KGH OR\nCell value: 'Shaun'\nCel
- l value: 'Shaun'
+SUMMARY:Shaun - Dr. Bedoya - KGH OR
+DESCRIPTION:Assignment: Shaun\nRole: AM/PM\nTeam: Dr. Bedoya\nLocation: KGH
+  OR\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: Oct 26-30\nSourc
+ e rows: 27\, 28
 END:VEVENT
 BEGIN:VEVENT
-UID:06ba1e4e-0407-52d0-9b5f-f448e862f89c@muse
-DTSTAMP:20261018T135019Z
+UID:750ce428-34d8-5518-b5b1-e38df3ce2dba@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261027T080000
 DTEND;TZID=America/Toronto:20261027T090000
-SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Campbell\n
- Role: resident\nAM/PM: AM + PM\nAssignment: HDH OR\nCell value: 'Shaun/Jas
- onF'\nCell value: 'Shaun/JasonF'
+SUMMARY:Shaun - Dr. Campbell - HDH OR
+DESCRIPTION:Assignment: Shaun/JasonF\nRole: AM/PM\nTeam: Dr. Campbell\nLoca
+ tion: HDH OR\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: Oct 26-
+ 30\nSource rows: 23\, 24
 END:VEVENT
 BEGIN:VEVENT
-UID:cec8cec0-a3bc-5be1-bc50-e5fe79e826bf@muse
-DTSTAMP:20261018T135019Z
+UID:5af5d76f-f517-5aa1-ad88-c1b33c05fcf2@muse
+DTSTAMP:20261019T134932Z
 DTSTART;TZID=America/Toronto:20261029T080000
 DTEND;TZID=America/Toronto:20261029T090000
-SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Sheet: 2026_2027_Orthopedic Clinical Schedule (1f8pxXgEjnIXE6iz
- 0Ic3WsbYnW-c9Nfr-ELGvo4lwJtI)\nTab: Oct 26-30\nTeam/doctor: Dr. Campbell\n
- Role: resident\nAM/PM: AM\nAssignment: HDH OR\nCell value: 'Shaun/Amelia/J
- asonF'
+SUMMARY:Shaun - Dr. Campbell - HDH OR
+DESCRIPTION:Assignment: Shaun/Amelia/JasonF\nRole: AM\nTeam: Dr. Campbell\n
+ Location: HDH OR\nSheet: 2026_2027_Orthopedic Clinical Schedule\, tab: Oct
+  26-30\nSource rows: 23
 END:VEVENT
 END:VCALENDAR
