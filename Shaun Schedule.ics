@@ -24,72 +24,102 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:22c0db85-e5f6-5e56-a19e-ec1d303eb136@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261019T080000
 DTEND;TZID=America/Toronto:20261019T090000
 SUMMARY:Shaun – Dr. Yach – KGH OR
-DESCRIPTION:Original cell value: Shaun\; Sheet: 2026_2027_Orthopedic Clinic
- al Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Yach\; Role: AM and PM ros
- ter on KGH OR
+DESCRIPTION:Original cell value: Shaun (AM and PM roster on KGH OR)\; Sheet
+ : 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: D
+ r. Yach\; Role: AM and PM
 END:VEVENT
 BEGIN:VEVENT
 UID:8cc12431-15e2-5cb6-bd4c-7e43ae146bd0@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261020T080000
 DTEND;TZID=America/Toronto:20261020T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Original cell value: Shaun/Joseph/JasonF\; Sheet: 2026_2027_Ort
- hopedic Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Campbell\; R
- ole: AM and PM roster on HDH OR
+DESCRIPTION:Original cell value: Shaun/Joseph/JasonF (AM and PM roster on H
+ DH OR)\; Sheet: 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; 
+ Team/doctor: Dr. Campbell\; Role: AM and PM
 END:VEVENT
 BEGIN:VEVENT
-UID:8c04b7ad-9b85-5947-8114-ae5d0d002aa8@muse
-DTSTAMP:20261021T135249Z
+UID:41e7906e-0e30-584b-9b8b-82f27d2dde8b@muse
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261021T080000
 DTEND;TZID=America/Toronto:20261021T090000
 SUMMARY:Shaun – Dr. Campbell – KGH OR – RM D
 DESCRIPTION:Original cell value: Shaun/Nicole\; Sheet: 2026_2027_Orthopedic
   Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Campbell\; Role: AM
-  and PM roster on KGH OR - RM D
+  on KGH OR - RM D\, PM on KGH OR
+END:VEVENT
+BEGIN:VEVENT
+UID:fba1e2ec-c24e-514c-93ef-3595afedbff8@muse
+DTSTAMP:20261022T135126Z
+DTSTART;TZID=America/Toronto:20261022T080000
+DTEND;TZID=America/Toronto:20261022T090000
+SUMMARY:Shaun – Trauma cover (half day\, AHD)
+DESCRIPTION:Original cell value: Half Day/Shaun covering trauma\; Sheet: 20
+ 26_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: Team 
+ B Resident Vacation\; Role: Thursday/AHD
 END:VEVENT
 BEGIN:VEVENT
 UID:64b33245-bff0-575c-9421-cfa616dc364f@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261023T080000
 DTEND;TZID=America/Toronto:20261023T090000
 SUMMARY:Shaun – Dr. Pichora – PROCEDURE CLINIC
 DESCRIPTION:Original cell value: Shaun\; Sheet: 2026_2027_Orthopedic Clinic
- al Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Pichora\; Role: AM roster 
- on PROCEDURE CLINIC
+ al Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Pichora\; Role: AM on PROC
+ EDURE CLINIC
 END:VEVENT
 BEGIN:VEVENT
 UID:df3f5653-3cc9-52d4-bfc8-5e10ac4d6499@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261026T080000
 DTEND;TZID=America/Toronto:20261026T090000
 SUMMARY:Shaun – Dr. Bedoya – KGH OR
-DESCRIPTION:Original cell value: Shaun\; Sheet: 2026_2027_Orthopedic Clinic
- al Schedule\; Tab: Oct 26-30\; Team/doctor: Dr. Bedoya\; Role: AM and PM r
- oster on KGH OR
+DESCRIPTION:Original cell value: Shaun (AM and PM roster on KGH OR)\; Sheet
+ : 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: D
+ r. Bedoya\; Role: AM and PM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb901acb-fff4-5c0d-b4d5-c1e3eea57e72@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261027T080000
 DTEND;TZID=America/Toronto:20261027T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Original cell value: Shaun/JasonF\; Sheet: 2026_2027_Orthopedic
-  Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: Dr. Campbell\; Role: AM
-  and PM roster on HDH OR
+DESCRIPTION:Original cell value: Shaun/JasonF (AM and PM roster on HDH OR)\
+ ; Sheet: 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; Team/do
+ ctor: Dr. Campbell\; Role: AM and PM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c8796a-d70d-5d3c-a5cd-93f59c3769b4@muse
+DTSTAMP:20261022T135126Z
+DTSTART;TZID=America/Toronto:20261028T080000
+DTEND;TZID=America/Toronto:20261028T090000
+SUMMARY:Shaun – Dr. Campbell – KGH OR
+DESCRIPTION:Original cell value: Shaun/Amelia/JasonF (AM and PM roster on K
+ GH OR)\; Sheet: 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; 
+ Team/doctor: Dr. Campbell\; Role: AM and PM
 END:VEVENT
 BEGIN:VEVENT
 UID:f763a292-02ed-5536-8604-6fe7c9b0d3c2@muse
-DTSTAMP:20261021T135249Z
+DTSTAMP:20261022T135126Z
 DTSTART;TZID=America/Toronto:20261029T080000
 DTEND;TZID=America/Toronto:20261029T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
 DESCRIPTION:Original cell value: Shaun/Amelia/JasonF\; Sheet: 2026_2027_Ort
  hopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: Dr. Campbell\; R
- ole: AM roster on HDH OR
+ ole: AM on HDH OR (Thursday/AHD)
+END:VEVENT
+BEGIN:VEVENT
+UID:000b4817-4711-5dc0-87e6-b81b36ab006b@muse
+DTSTAMP:20261022T135126Z
+DTSTART;TZID=America/Toronto:20261030T080000
+DTEND;TZID=America/Toronto:20261030T090000
+SUMMARY:Shaun – Research: IPAs
+DESCRIPTION:Original cell value: Amelia/Shaun researching IPAs\; Sheet: 202
+ 6_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: Team B
+  Resident Vacation\; Role: Friday research
 END:VEVENT
 END:VCALENDAR
