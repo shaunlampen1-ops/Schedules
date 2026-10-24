@@ -23,58 +23,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:22c0db85-e5f6-5e56-a19e-ec1d303eb136@muse
-DTSTAMP:20261023T135246Z
-DTSTART;TZID=America/Toronto:20261019T080000
-DTEND;TZID=America/Toronto:20261019T090000
-SUMMARY:Shaun – Dr. Yach – KGH OR
-DESCRIPTION:Original cell value: Shaun (AM and PM roster on KGH OR)\; Sheet
- : 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: D
- r. Yach\; Role: AM and PM
-END:VEVENT
-BEGIN:VEVENT
-UID:8cc12431-15e2-5cb6-bd4c-7e43ae146bd0@muse
-DTSTAMP:20261023T135246Z
-DTSTART;TZID=America/Toronto:20261020T080000
-DTEND;TZID=America/Toronto:20261020T090000
-SUMMARY:Shaun – Dr. Campbell – HDH OR
-DESCRIPTION:Original cell value: Shaun/Joseph/JasonF (AM and PM roster on H
- DH OR)\; Sheet: 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; 
- Team/doctor: Dr. Campbell\; Role: AM and PM
-END:VEVENT
-BEGIN:VEVENT
-UID:41e7906e-0e30-584b-9b8b-82f27d2dde8b@muse
-DTSTAMP:20261023T135246Z
-DTSTART;TZID=America/Toronto:20261021T080000
-DTEND;TZID=America/Toronto:20261021T090000
-SUMMARY:Shaun – Dr. Campbell – KGH OR – RM D
-DESCRIPTION:Original cell value: Shaun/Nicole\; Sheet: 2026_2027_Orthopedic
-  Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Campbell\; Role: AM
-  on KGH OR - RM D\, PM on KGH OR
-END:VEVENT
-BEGIN:VEVENT
-UID:fba1e2ec-c24e-514c-93ef-3595afedbff8@muse
-DTSTAMP:20261023T135246Z
-DTSTART;TZID=America/Toronto:20261022T080000
-DTEND;TZID=America/Toronto:20261022T090000
-SUMMARY:Shaun – Trauma cover (half day\, AHD)
-DESCRIPTION:Original cell value: Shaun covering trauma/Half Day\; Sheet: 20
- 26_2027_Orthopedic Clinical Schedule\; Tab: Oct 19-23\; Team/doctor: Team 
- B Resident Vacation\; Role: Thursday/AHD
-END:VEVENT
-BEGIN:VEVENT
-UID:64b33245-bff0-575c-9421-cfa616dc364f@muse
-DTSTAMP:20261023T135246Z
-DTSTART;TZID=America/Toronto:20261023T080000
-DTEND;TZID=America/Toronto:20261023T090000
-SUMMARY:Shaun – Dr. Pichora – PROCEDURE CLINIC
-DESCRIPTION:Original cell value: Shaun\; Sheet: 2026_2027_Orthopedic Clinic
- al Schedule\; Tab: Oct 19-23\; Team/doctor: Dr. Pichora\; Role: AM on PROC
- EDURE CLINIC
-END:VEVENT
-BEGIN:VEVENT
 UID:5ee1d234-54d0-5f0a-82bf-4e7d3a498054@muse
-DTSTAMP:20261023T135246Z
+DTSTAMP:20261024T134817Z
 DTSTART;TZID=America/Toronto:20261026T080000
 DTEND;TZID=America/Toronto:20261026T090000
 SUMMARY:Shaun – Dr. Campbell – Clinic
@@ -84,7 +34,7 @@ DESCRIPTION:Original cell value: Shaun (AM and PM roster on Clinic)\; Sheet
 END:VEVENT
 BEGIN:VEVENT
 UID:cb901acb-fff4-5c0d-b4d5-c1e3eea57e72@muse
-DTSTAMP:20261023T135246Z
+DTSTAMP:20261024T134817Z
 DTSTART;TZID=America/Toronto:20261027T080000
 DTEND;TZID=America/Toronto:20261027T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
@@ -94,7 +44,7 @@ DESCRIPTION:Original cell value: Shaun/JasonF (AM and PM roster on HDH OR)\
 END:VEVENT
 BEGIN:VEVENT
 UID:f5c8796a-d70d-5d3c-a5cd-93f59c3769b4@muse
-DTSTAMP:20261023T135246Z
+DTSTAMP:20261024T134817Z
 DTSTART;TZID=America/Toronto:20261028T080000
 DTEND;TZID=America/Toronto:20261028T090000
 SUMMARY:Shaun – Dr. Campbell – KGH OR
@@ -104,22 +54,22 @@ DESCRIPTION:Original cell value: Shaun/Amelia/JasonF (AM and PM roster on K
 END:VEVENT
 BEGIN:VEVENT
 UID:f763a292-02ed-5536-8604-6fe7c9b0d3c2@muse
-DTSTAMP:20261023T135246Z
+DTSTAMP:20261024T134817Z
 DTSTART;TZID=America/Toronto:20261029T080000
 DTEND;TZID=America/Toronto:20261029T090000
 SUMMARY:Shaun – Dr. Campbell – HDH OR
 DESCRIPTION:Original cell value: Shaun/Amelia/JasonF\; Sheet: 2026_2027_Ort
  hopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: Dr. Campbell\; R
- ole: AM on HDH OR (Thursday/AHD)
+ ole: AM on HDH OR
 END:VEVENT
 BEGIN:VEVENT
 UID:000b4817-4711-5dc0-87e6-b81b36ab006b@muse
-DTSTAMP:20261023T135246Z
+DTSTAMP:20261024T134817Z
 DTSTART;TZID=America/Toronto:20261030T080000
 DTEND;TZID=America/Toronto:20261030T090000
 SUMMARY:Shaun – Research: IPAs
-DESCRIPTION:Original cell value: Amelia/Shaun researching IPAs\; Sheet: 202
- 6_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor: Team B
-  Resident Vacation\; Role: Friday research
+DESCRIPTION:Original cell value: Amelia working Shaun researching IPAs\; Sh
+ eet: 2026_2027_Orthopedic Clinical Schedule\; Tab: Oct 26-30\; Team/doctor
+ : Team B Resident Vacation\; Role: Friday research
 END:VEVENT
 END:VCALENDAR
