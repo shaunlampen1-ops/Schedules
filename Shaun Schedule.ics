@@ -23,8 +23,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:shaun-20261116@shaun-schedule
+DTSTAMP:20261118T114751Z
+DTSTART;TZID=America/Toronto:20261116T080000
+DTEND;TZID=America/Toronto:20261116T090000
+SUMMARY:Shaun - Dr. Bedoya - Trauma
+DESCRIPTION:Original cell(s): Shaun ( AM and PM ) | Tab: Nov 16-20 | Team: 
+ Team B | Doctor: Dr. Bedoya | Clinic/OR: Trauma | Role: Resident/Clerk
+END:VEVENT
+BEGIN:VEVENT
 UID:shaun-20261117@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261117T080000
 DTEND;TZID=America/Toronto:20261117T090000
 SUMMARY:Shaun - Dr. Campbell - HDH OR
@@ -34,7 +43,7 @@ DESCRIPTION:Original cell(s): Shaun/Val/Britney ( AM and PM ) | Tab: Nov 16
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261118@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261118T080000
 DTEND;TZID=America/Toronto:20261118T090000
 SUMMARY:Shaun - Dr. Campbell - KGH OR
@@ -44,7 +53,7 @@ DESCRIPTION:Original cell(s): Shaun/Britney ( AM and PM ) | Tab: Nov 16-20
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261119@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261119T080000
 DTEND;TZID=America/Toronto:20261119T090000
 SUMMARY:Shaun - Shaun QCARE+
@@ -53,7 +62,7 @@ DESCRIPTION:Original cell(s): Shaun QCARE+ ( n/a ) | Tab: Nov 16-20 | Team:
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261123@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261123T080000
 DTEND;TZID=America/Toronto:20261123T090000
 SUMMARY:Shaun - Val\, Shaun post call
@@ -62,16 +71,16 @@ DESCRIPTION:Original cell(s): Val\, Shaun post call ( n/a ) | Tab: Nov 23-2
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261124@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261124T080000
 DTEND;TZID=America/Toronto:20261124T090000
 SUMMARY:Shaun - Dr. Diaz - Clinic
-DESCRIPTION:Original cell(s): Shaun ( PM ) | Tab: Nov 23-27 | Team: Team B 
- | Doctor: Dr. Diaz | Clinic/OR: Clinic | Role: Resident/Clerk
+DESCRIPTION:Original cell(s): Shaun ( AM and PM ) | Tab: Nov 23-27 | Team: 
+ Team B | Doctor: Dr. Diaz | Clinic/OR: Clinic | Role: Resident/Clerk
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261130@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261130T080000
 DTEND;TZID=America/Toronto:20261130T090000
 SUMMARY:Shaun - Dr. Campbell - Clinic
@@ -81,7 +90,7 @@ DESCRIPTION:Original cell(s): Shaun ( AM and PM ) | Tab: Nov 30-Dec 4 | Tea
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261201@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261201T080000
 DTEND;TZID=America/Toronto:20261201T090000
 SUMMARY:Shaun - Dr. Campbell - HDH OR
@@ -91,7 +100,7 @@ DESCRIPTION:Original cell(s): Shaun/Amelia ( AM and PM ) | Tab: Nov 30-Dec
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261202@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261202T080000
 DTEND;TZID=America/Toronto:20261202T090000
 SUMMARY:Shaun - Dr. Diaz - HDH OR
@@ -100,7 +109,7 @@ DESCRIPTION:Original cell(s): Shaun ( AM and PM ) | Tab: Nov 30-Dec 4 | Tea
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261203@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261203T080000
 DTEND;TZID=America/Toronto:20261203T090000
 SUMMARY:Shaun - Half Day\, Val covering team D\, Shaun away in AM
@@ -110,7 +119,7 @@ DESCRIPTION:Original cell(s): Half Day\, Val covering team D\, Shaun away i
 END:VEVENT
 BEGIN:VEVENT
 UID:shaun-20261208@shaun-schedule
-DTSTAMP:20261117T114812Z
+DTSTAMP:20261118T114751Z
 DTSTART;TZID=America/Toronto:20261208T080000
 DTEND;TZID=America/Toronto:20261208T090000
 SUMMARY:Shaun - Dr. Campbell - HDH OR
